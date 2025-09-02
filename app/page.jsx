@@ -7,7 +7,7 @@ export default function HomePage () {
         <main className="font-sans">
             <Navbar />
             <Hero/>
-            <Services />
+            <Services/>
         </main>
     )    
 }
