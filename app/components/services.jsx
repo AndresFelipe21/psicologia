@@ -4,24 +4,24 @@ import { useState } from "react"
 export default function Services() {
   const services = [
     {
-      title: "Terapia individual",
+      title: "Psicoterapia Individual",
       image: "individual.jpg",
-      description: "Sesiones personalizadas para trabajar tu bienestar emocional."
+      description: "Enfocada a proporcionar habilidades que te permita vencer momentos de ansiedad, depresión, traumas, estrés, enojo, cambios importantes en tu vida, duelo por pérdida (muerte o separación) otros que puedas estar vivenciando."
     },
     {
-      title: "Terapia de pareja",
+      title: "Psicoterapia en Pareja",
       image: "pareja.jpg",
-      description: "Espacio seguro para mejorar la comunicación y fortalecer la relación."
+      description: "Les aportaré como pareja para abordar dificultades en la comunicación que les lleva a vivenciar conflictos, infidelidad, dificultades sexuales; o a transitar por un proceso de separación o divorcio."
     },
     {
-      title: "Terapia para niños y adolescentes",
+      title: "Psicoterapia para niños y adolescentes",
       image: "ninos.webp",
-      description: "Acompañamiento especializado para menores en su desarrollo emocional."
+      description: "Apoyaré los retos de esta etapa de desarrollo, como el manejo del estrés, dependencia, la autoestima, identidad, orientación sexual, solución de conflictos y los desafíos emocionales."
     },
     {
-      title: "Terapia Familiar",
+      title: "Psicoterapia Familiar",
       image: "familia.jpg",
-      description: "Capacitaciones y talleres en grupo sobre temas de salud mental."
+      description: "Estaré con ustedes para ayudarles a mejorar la comunicación, resolver conflictos, desarrollar habilidades parentales efectivas y fortalecer los lazos familiares."
     }
   ]
 
