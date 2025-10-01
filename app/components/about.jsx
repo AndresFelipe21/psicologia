@@ -6,8 +6,14 @@ export default function About() {
         <div className="w-24 h-24 bg-gray-200 rounded-full"></div>
         <div>
           <p className="text-gray-600">
-            Aquí puedes escribir una breve descripción personal, tu experiencia y
-            tu enfoque profesional.
+            Psicoterapia en línea sensorium es una plataforma dedicada a apoyar procesos de cambios en hábitos mentales que favorezca la
+            salud emocional, personal, y en todos los entornos de quién lleva toma iniciativa de terapia, además sensorium en línea te ayudarán
+            a sentirte mejor. Atendiéndote de manera personalizada, siempre con ética y con el amparo de unas sesiones de psicoterapia de gran calidad,
+            que te mereces.
+            Lo mejor es que podrás disfrutar de hacer psicoterapia desde la comodidad de tu casa o incluso oficina donde te sientas bien,
+            sin preocuparse por el tráfico y cómo llegar a la dirección. Sólo necesitas un teléfono celular o laptop y así conectar con tu propia fuente
+            de bienestar.
+
           </p>
         </div>
       </div>
