@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section 
       className="flex flex-col md:flex-row items-center justify-between px-40 py-20 bg-no-repeat bg-contain bg-[right_70%]"
-      style={{ backgroundImage: "url('/salud.jpg')" }}
+      style={{ backgroundImage: "url('/hero.PNG')" }}
     >
       <div className="max-w-lg">
         <h1 className="text-4xl font-bold leading-snug text-gray-900">
